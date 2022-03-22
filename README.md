@@ -7,7 +7,7 @@
 
 ## 設計理念與技術
 構想來自於網路上某資工製作的期末作品，<br>
-屬於大富翁的遊戲風格，我將它與現代回合制RPG結核病加以改良完成，<br>
+屬於大富翁的遊戲風格，我將它與現代回合制RPG結合並加以改良完成，<br>
 主要利用骰子去決定角色移動的格數，每個定點上都有不同的設置機關，<br>
 像是怪物、藥水店、武器店、超級怪物、特殊任務等，<br>
 因此只要擲出不同的骰子點數，就能讓玩家有不同的體驗，使遊玩更具有互動性。<br>
@@ -30,6 +30,7 @@
 
 ## 程式影片
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHohVcn1hmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 相關程式畫面
 ### 開始畫面<br>
