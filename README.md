@@ -1,5 +1,5 @@
 # RPG-DICE-GAME
-自製-骰子戰鬥系統(RPG-DICE-GAME)
+自製-骰子RPG戰鬥系統(RPG-DICE-GAME)
 
 ## 實作目的
 在軟體專案管理的課程中，需要規劃一個專案，<br>
