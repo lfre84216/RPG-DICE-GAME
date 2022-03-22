@@ -4,8 +4,6 @@
 ## 實作目的
 在軟體專案管理的課程中，需要規劃一個專案，<br>
 而當時在練習C#，想藉由課程專案來完成小時候就嚮往製作遊戲的一個夢想。<br>
-構想，<br>
-而另外一方面則是可以加強自己對於實作專案的熟悉度。
 
 ## 設計理念與技術
 構想來自於網路上某資工製作的期末作品，<br>
@@ -34,8 +32,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHohVcn1hmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 相關程式畫面
-### 登入註冊<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
+### 開始畫面<br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
 <br>
 
