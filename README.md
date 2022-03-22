@@ -15,7 +15,6 @@
 - Multi-Thread
 - XAML
 - WMPLib-WindowsMediaPlayer
-- 
 
 ## 主要實作功能
 實作功能包含大富翁的整個移動系統，加上藥水武器的功能與介面，<br>
@@ -29,4 +28,38 @@
 - 實際RPG與音效圖片流程的配合
 - 建構子初始化地圖物件
 
+## 相關程式畫面
+### 開始畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/1.png">
+<br>
 
+### 關卡選擇畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/2.png">
+<br>
+
+### 骰子人物行走畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/3.png">
+<br>
+
+### 武器店畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/4.png">
+<br>
+
+### 藥水店畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/5.png">
+<br>
+
+### 戰鬥畫面<br>
+<img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/6.png">
+<br>
+
+## 製作過程與困難點
+在實作該專案的過程中，其實遇過很多問題，<br>
+像是控制項的動畫效果，以及戰鬥系統的設定<br>
+主要都是使用多執行緒的概念來進行實作，<br>
+並且透過委派(Delegate)的方式，委託UI執行緒來對控制項非同步操作，<br>
+即可達成上述等功能的實現，<br>
+另外在進行擲骰子後進行的走路動畫也思考了很久，<br>
+寫出了一個類走路動畫的演算法，<br>
+在走到第n格時，對n和n-1格進行動畫的顯示與消失，也是透過多執行緒實作，<br>
+算是蠻有成就感的一件事。<br>
