@@ -15,6 +15,7 @@
 - Multi-Thread
 - XAML
 - WMPLib-WindowsMediaPlayer
+- 
 
 ## 主要實作功能
 實作功能包含大富翁的整個移動系統，加上藥水武器的功能與介面，<br>
@@ -28,30 +29,4 @@
 - 實際RPG與音效圖片流程的配合
 - 建構子初始化地圖物件
 
-## 程式影片
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHohVcn1hmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## 相關程式畫面
-### 開始畫面<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
-<br>
-
-### 使用者介面<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/2.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/3.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
-<br>
-
-### 管理者介面<br>
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
-<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
-<br>
-
-## 製作過程與困難點
-在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
-達成實際直接遠端資料庫的功能，<br>
-所以在網路這方面有另外研究了關於虛擬伺服器的功能，<br>
-讓實作出來的程式也能透過外部裝置來進行連線。
