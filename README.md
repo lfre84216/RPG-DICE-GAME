@@ -53,7 +53,7 @@
 <img src="https://github.com/lfre84216/RPG-DICE-GAME/blob/main/6.png">
 <br>
 
-### 遊戲影片DEMO展示
+### 遊戲影片DEMO展示 (點下方圖片進入觀看)
 [![IMAGE ALT TEXT HERE](https://github.com/lfre84216/RPG-DICE-GAME/blob/main/%E9%81%8A%E6%88%B2%E6%A8%99%E9%A1%8C%E8%83%8C%E6%99%AF.JPG)](https://www.youtube.com/watch?v=EHohVcn1hmE)
 
 ## 製作過程與困難點
